@@ -6,12 +6,9 @@ OpenGL Donut là một chương trình hiển thị mô phỏng hình donut 3D q
 
 ## Demo
 
-Here are three demo images of the OpenGL Donut:
-
 <p align="center">
 	<img src="imagedemo1.png" alt="Demo 1" width="400"/>
 	<img src="imagedemo2.png" alt="Demo 2" width="400"/>
-	<img src="imagedemo3.png" alt="Demo 3" width="400"/>
 </p>
 
 ## Yêu cầu hệ thống
